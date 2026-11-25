@@ -1,0 +1,15 @@
+{
+  "originHash" : "a8b789c1563136160ca4acab2ae05168ab8f2de8c1b66287e98f98bf0bd1a82c",
+  "pins" : [
+    {
+      "identity" : "snaplyagent-sdk-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Mobile-LLC/SnaplyAgent-SDK-iOS",
+      "state" : {
+        "revision" : "2e4123396e3beb212fc0e903e231cb9fee0e5c2c",
+        "version" : "2.55.0"
+      }
+    }
+  ],
+  "version" : 3
+}
